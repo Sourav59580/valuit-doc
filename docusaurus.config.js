@@ -78,7 +78,9 @@ const config = {
         logo: {
           alt: 'valuit Logo',
           src: 'img/logo_light.svg',
-          srcDark: 'img/logo_dark.png'
+          srcDark: 'img/logo_dark.png',
+          href: 'https://valuit.com/',
+          target: '_self',
         },
         items: [
           {
