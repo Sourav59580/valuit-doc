@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Valuit',
+  tagline: 'Redefining Investment Banking with Blockchain',
   favicon: 'img/favicon-150x150.png',
 
   // Set the production url of your site here
@@ -71,10 +71,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      algolia: {
+        appId: 'R2IYF7ETH7',
+        apiKey: '599cec31baffa4868cae4e79f180729b',
+        indexName: 'docsearch'
+      },
+      
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '',
         logo: {
           alt: 'valuit Logo',
           src: 'img/logo_light.svg',
@@ -89,12 +95,31 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { href: 'https://valuit.com/blog/', label: 'Blog', position: 'left' },
+          { 
+            type: 'dropdown',
+            label: 'Resources', 
+            position: 'left',
+            items: [
+              {
+                label: 'Github',
+                href: 'https://github.com/product-valuit/valuit-doc',
+              },
+              {
+                label: 'Discord',
+                href: 'https://github.com/product-valuit/valuit-doc',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://github.com/product-valuit/valuit-doc',
+              },
+            ] 
+          },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/product-valuit/valuit-doc',
             label: 'GitHub',
             position: 'right',
-          },
+          }
         ],
       },
       footer: {
