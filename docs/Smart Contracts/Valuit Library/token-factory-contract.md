@@ -9,6 +9,7 @@ sidebar_position: 3
 
 **Signature**
 
+![deploytrexsuite](../images/deploytrexsuite.png)
 
 
 **Working:**
