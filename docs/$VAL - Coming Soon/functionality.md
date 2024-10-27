@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Key Functions
+# Functionality
 ## **$VAL token utilities**
 
 ### **DAO governance function of the Valuit platform**
