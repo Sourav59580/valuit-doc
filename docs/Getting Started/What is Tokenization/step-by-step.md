@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Basic Steps
+# Step-by-Step
 ![tokenization-basic-steps.png](./images/basic-steps.png)
 
 Tokenization transforms traditional assets into digital tokens on a blockchain, providing enhanced accessibility, liquidity, and flexibility. Below are the essential steps in the tokenization process to bring an asset on-chain:

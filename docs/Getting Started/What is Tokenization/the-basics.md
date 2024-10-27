@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# What is Tokenization?
+# The Basics
 
 **Tokenization** is the process of converting ownership rights of a real-world asset into a **digital token** on a blockchain. This means that a physical asset, such as property, art, or even shares in a company, can be represented by a digital token. These tokens can then be easily transferred, traded, or used across different platforms within the blockchain ecosystem, making asset management simpler, faster, and more efficient.
 
