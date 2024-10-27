@@ -6,7 +6,13 @@ sidebar_position: 8
 
 Valuit collaborates with various secondary market platforms to provide a comprehensive trading ecosystem for tokenized assets. This collaboration ensures liquidity, accessibility, and regulatory compliance, instilling confidence in asset holders. Below, we detail how Valuit works with DeFi protocols, decentralized exchanges (DEX), and centralized exchanges (CEX) to expand our retail user base.
 
-## 1.1 DeFi Protocols
+| **Market Type** | **Key Features** | **Benefits for Asset Holders** |
+| --- | --- | --- |
+| **DeFi Protocols** | Integration with liquidity pools, yield farming, lending/borrowing | Enhanced liquidity, additional revenue streams, DeFi innovation |
+| **DEX** | Direct trading, advanced security, order book and AMM integration | Security and privacy, lower fees, wide token availability |
+| **CEX** | High liquidity, compliance and KYC integration, joint marketing campaigns | High liquidity, user-friendly experience, advanced trading features |
+
+## DeFi Protocols
 
 Decentralized Finance (DeFi) protocols enable peer-to-peer trading and various financial activities without intermediaries. Valuit leverages these protocols to enhance liquidity and provide innovative trading options.
 
@@ -14,12 +20,12 @@ Decentralized Finance (DeFi) protocols enable peer-to-peer trading and various f
 
 1. **Integration with Liquidity Pools:**
     - Valuit integrates with leading DeFi platforms to provide liquidity pools for tokenized assets.
-    - **Benefit:**This allows asset holders to earn yield by providing liquidity, enhancing the overall liquidity of the tokenized assets.
+        - **Benefit:**This allows asset holders to earn yield by providing liquidity, enhancing the overall liquidity of the tokenized assets.
 2. **Lending and Borrowing:**
     - Valuit enables asset holders to use their tokenized assets as collateral for loans through integration with decentralized lending and borrowing platforms.
-    - **Benefit:**Provides additional financial flexibility and opportunities for asset holders.
+        - **Benefit:**Provides additional financial flexibility and opportunities for asset holders.
 
-## 1.2 Decentralized Exchanges (DEX)
+## Decentralized Exchanges (DEX)
 
 Decentralized exchanges facilitate direct trading of cryptocurrencies between users without a central authority. Valuit's collaboration with DEX platforms ensures a secure and transparent trading environment.
 
@@ -27,12 +33,12 @@ Decentralized exchanges facilitate direct trading of cryptocurrencies between us
 
 1. **Token Listing on DEX:**
     - Valuit lists tokenized assets on major DEX platforms to ensure broad accessibility.
-    - **Benefit:**Asset holders can trade their tokens directly on these platforms, enjoying the benefits of decentralized trading.
+        - **Benefit:**Asset holders can trade their tokens directly on these platforms, enjoying the benefits of decentralized trading.
 2. **Order Book and AMM Integration:**
     - Valuit works with DEX platforms that use both order book models and automated market makers (AMMs) to provide diverse trading options.
-    - **Benefit:**Asset holders can choose their preferred trading method, whether it's through order books or liquidity pools.
+        - **Benefit:**Asset holders can choose their preferred trading method, whether it's through order books or liquidity pools.
 
-## 1.3 Centralized Exchanges (CEX)
+## Centralized Exchanges (CEX)
 
 Centralized exchanges are platforms operated by centralized entities that facilitate the buying and selling of cryptocurrencies. Valuit partners with reputable CEX platforms to provide a user-friendly trading environment with high liquidity.
 
@@ -40,15 +46,7 @@ Centralized exchanges are platforms operated by centralized entities that facili
 
 1. **Token Listing on CEX:**
     - Valuit ensures the listing of tokenized assets on top CEX platforms to provide high liquidity and accessibility for retail and institutional investors.
-    - **Benefit:**High liquidity and accessibility for retail and institutional investors.
+        - **Benefit:**High liquidity and accessibility for retail and institutional investors.
 2. **Marketing and User Acquisition:**
     - Joint marketing campaigns with CEX platforms to promote tokenized assets and attract a broader user base.
-    - **Benefit:**Increased visibility and user acquisition for tokenized assets.
-
-## 1.4 Summary Table
-
-| **Market Type** | **Key Features** | **Benefits for Asset Holders** |
-| --- | --- | --- |
-| **DeFi Protocols** | Integration with liquidity pools, yield farming, lending/borrowing | Enhanced liquidity, additional revenue streams, DeFi innovation |
-| **DEX** | Direct trading, advanced security, order book and AMM integration | Security and privacy, lower fees, wide token availability |
-| **CEX** | High liquidity, compliance and KYC integration, joint marketing campaigns | High liquidity, user-friendly experience, advanced trading features |
+        - **Benefit:**Increased visibility and user acquisition for tokenized assets.

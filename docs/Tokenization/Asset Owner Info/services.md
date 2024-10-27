@@ -11,7 +11,8 @@ Valuit is dedicated to offering a wide range of services that address the needs 
 
 ![services-diagram](./images/services-diagram.png)
 
-## 1.2 Tokenization of Assets
+
+## Tokenization of Assets
 
 | **Key Benefits** | **Description** |
 | --- | --- |
@@ -19,9 +20,7 @@ Valuit is dedicated to offering a wide range of services that address the needs 
 | **Fractional Ownership** | Investors can purchase portions of high-value assets, making it easier for a wider audience to invest. |
 | **Alternative Financing** | Blockchain enables alternative financing and leveraging models through decentralized lending and liquidity protocols. |
 
-## 
-
-## 1.3 Asset and Equity Management
+## Asset and Equity Management
 
 | **Key Benefits** | **Description** |
 | --- | --- |
@@ -29,7 +28,7 @@ Valuit is dedicated to offering a wide range of services that address the needs 
 | **Real-Time Information** | Shareholders can instantly access up-to-date information about their investments and company performance. |
 | **Improved Governance** | Digital shares facilitate streamlined voting and decision-making processes, enhancing corporate governance. |
 
-## 1.4 Financial Instruments and Investments
+## Financial Instruments and Investments
 
 | **Feature** | **Description** |
 | --- | --- |

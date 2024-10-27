@@ -4,23 +4,24 @@ sidebar_position: 4
 
 # Sourcing & Deal Flow
 
+
 This section outlines the comprehensive approach Valuit takes to source, evaluate, and manage investment opportunities. Our rigorous process ensures that all investments meet high standards of quality, compliance, and profitability, aligning with the expectations of sophisticated investors such as family offices, venture capital firms, and private equity funds.
 
-## 1.1 Overview of Asset Sourcing
+## Overview of Asset Sourcing
 
 Valuit employs a strategic and methodical approach to asset sourcing, leveraging our extensive network, market insights, and technological tools. Our goal is to identify and secure high-quality investment opportunities that offer strong returns and align with our investment strategy.
 
 - **Market Research and Analysis**
-- Conduct in-depth market research to identify emerging trends, growth sectors, and potential investment opportunities.
-- Utilize advanced data analytics and blockchain technology to gain insights into market dynamics and asset performance.
+    - Conduct in-depth market research to identify emerging trends, growth sectors, and potential investment opportunities.
+    - Utilize advanced data analytics and blockchain technology to gain insights into market dynamics and asset performance.
 - **Network Utilization**
-- Leverage our extensive network of industry contacts, partners, and advisors to source high-quality assets.
-- Engage with brokers, investment banks, and other intermediaries to identify off-market opportunities.
+    - Leverage our extensive network of industry contacts, partners, and advisors to source high-quality assets.
+    - Engage with brokers, investment banks, and other intermediaries to identify off-market opportunities.
 - **Proactive Sourcing**
-- Actively seek out investment opportunities through direct outreach to asset owners and potential partners.
-- Attending industry conferences, events, and networking sessions to build relationships and identify new opportunities.
+    - Actively seek out investment opportunities through direct outreach to asset owners and potential partners.
+    - Attending industry conferences, events, and networking sessions to build relationships and identify new opportunities.
 
-## 1.2 Investment Parameters
+## Investment Parameters
 
 Valuit adheres to stringent investment parameters to ensure that all sourced assets meet our quality, compliance, and profitability standards. These parameters guide our investment decisions and ensure alignment with our overall strategy.
 
@@ -33,7 +34,7 @@ Valuit adheres to stringent investment parameters to ensure that all sourced ass
 | **Risk Management** | Comprehensive risk assessments and mitigation strategies to protect investor capital. |
 | **Compliance and Regulatory Standards** | Adherence to local and international regulations, ensuring legal and regulatory compliance. |
 
-## 1.3 Due Diligence Criteria
+## Due Diligence Criteria
 
 Valuit conducts rigorous due diligence to evaluate the quality, potential, and compliance of each investment opportunity. Our due diligence process includes financial, legal, operational, and technical assessments.
 
@@ -45,7 +46,7 @@ Valuit conducts rigorous due diligence to evaluate the quality, potential, and c
 | **Technical Due Diligence** | 1. Conduct technical assessments for assets involving technology or physical infrastructure. <br/>2. Evaluate the asset's technical condition, performance, and future potential.<br/> 3. Review technology stack, intellectual property, and R&D capabilities. <br/> 4. Assess the scalability, reliability, and security of the technology. |
 | **Regulatory Due Diligence** | 1. Ensure compliance with all relevant regulatory frameworks and standards. <br/>2. Conduct AML (Anti-Money Laundering) and CFT (Counter Financing of Terrorism) checks.<br/> 3. Review regulatory filings, licenses, and permits. 4. Evaluate the impact of current and potential future regulations on the asset. |
 
-## 1.4 Documentation and Deliverables
+## Documentation and Deliverables
 
 Valuit ensures thorough documentation and clear deliverables throughout the investment process. This transparency supports informed decision-making and maintains investor confidence.
 

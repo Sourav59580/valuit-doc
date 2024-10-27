@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Problems & Solutions
 
-**Valuit addresses several critical challenges faced by asset owners and investors in traditional asset management. Below, we outline these problem statements, and the corresponding benefits provided by Valuit’s solutions.**
+Valuit addresses several critical challenges faced by asset owners and investors in traditional asset management. Below, we outline these problem statements, and the corresponding benefits provided by Valuit’s solutions.
 
-## 1.1 Liquidity of Traditional Assets
+## Liquidity of Traditional Assets
 
 | **Challenge** | **Solution** |
 | --- | --- |
@@ -14,7 +14,7 @@ sidebar_position: 3
 | **Limited Buyers** | Digital tokens can be traded globally, increasing the pool of potential buyers. |
 | **High Transaction Costs** | Blockchain technology reduces the need for intermediaries, lowering transaction costs. |
 
-## 1.2 Complex and Costly Transactions
+## Complex and Costly Transactions
 
 | **Challenge** | **Solution** |
 | --- | --- |
@@ -22,14 +22,14 @@ sidebar_position: 3
 | **High Fees** | Lower transaction costs by minimizing intermediary involvement. |
 | **Slow Process** | Blockchain enables faster settlement and transfer of assets. |
 
-## 1.3 Lack of Transparency
+## Lack of Transparency
 
 | **Traditional Asset Management** | **Valuit Tokenization** |
 | --- | --- |
-| **Limited visibility into ownership and transactions.** | **Full transparency with blockchain ledger provides an immutable record of all transactions.** |
-| **Potential for fraud and errors.** | **Reduced risk of fraud and errors due to automated verification and recording.** |
+| Limited visibility into ownership and transactions. | Full transparency with blockchain ledger provides an immutable record of all transactions. |
+| Potential for fraud and errors. | Reduced risk of fraud and errors due to automated verification and recording. |
 
-## 1.4 Regulatory Compliance
+## Regulatory Compliance
 
 | **Challenge** | **Solution** |
 | --- | --- |
@@ -37,7 +37,7 @@ sidebar_position: 3
 | **Risk of Non-Compliance** | Built-in compliance tools reduce legal risks and help avoid penalties. |
 | **Regulatory Changes** | Regular updates to the platform ensure ongoing compliance with evolving regulations. |
 
-## 1.5 Limited Access and Control
+## Limited Access and Control
 
 | **Challenge** | **Solution** |
 | --- | --- |

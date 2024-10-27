@@ -8,7 +8,7 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
 
 *Note: The SPVs will be managed by Valuit Lithuania UAB, which is licensed under MiCA, ensuring authorization and compliance throughout the process.*
 
-## 1.1 End-to-End Compliance Process
+## End-to-End Compliance Process
 
 1. Issuing Security Tokens through Exempt Securities Laws in the EU
     1. Legal Entity Formation
@@ -65,13 +65,13 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
             - **Requirement:** Issue ARTs to investors and manage the tokens in accordance with the white paper and MiCA regulations.
             - **Action:** Use Valuit’s platform to handle the issuance and ongoing management of ARTs.
 
-## 1.2 Information on SPVs
+## Information on SPVs
 
-### 1.2.1 Introduction to SPVs
+### Introduction to SPVs
 
 Special Purpose Vehicles (SPVs) are separate legal entities created to isolate financial risk, protect assets, and facilitate various financial transactions. In the Valuit ecosystem, SPVs are integral to our tokenization process, ensuring that assets are securely and efficiently managed.
 
-### 1.2.2 Benefits of Using SPVs
+### Benefits of Using SPVs
 
 1. **Isolating Financial Risk:**
     - SPVs created through Valuit allow companies to separate certain assets and liabilities from the parent company, reducing financial risk. By creating a distinct legal entity, the parent company can protect its core assets from potential financial losses associated with specific projects or investments.
@@ -82,22 +82,19 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
 1. **Raising Capital:**
     - SPVs are effective tools for raising capital for future projects. By ring-fencing funds for specific purposes, SPVs provide transparency and security to investors, enhancing their confidence and willingness to invest in Valuit's tokenized assets.
 
-### 1.2.3 Key European Jurisdictions for SPVs
+### Key European Jurisdictions for SPVs
 
 1. **Ireland:**
-- **Benefits:**
     - Ireland is a hub for collateralized loan obligations (CLOs) and structured-finance vehicles, supported by a robust legal framework.
     - Incorporation is fast and efficient, typically completed in 3-5 business days.
     - Favorable tax treatments, including potential tax neutrality for qualifying SPVs.
     - Extensive network of financial services providers and infrastructure.
-1. **Luxembourg:**
-- **Benefits:**
+2. **Luxembourg:**
     - Luxembourg offers legal certainty and flexibility through its securitization law, making it ideal for structured-finance transactions.
     - The incorporation process is efficient, usually taking 5-10 business days.
     - The country provides a tax-neutral regime for SPVs, enhancing their financial efficiency.
     - Strong government support and a well-established financial ecosystem.
-1. **United Kingdom:**
-- **Benefits:**
+3. **United Kingdom:**
     - The UK is renowned for its high standards of corporate governance and transparency, making it a preferred choice for complex, high-risk transactions.
     - Fast incorporation process, with private companies limited by shares (Ltd) typically established within 24 hours online.
     - Robust legal framework based on common law, providing flexibility and business-friendly regulations.
@@ -106,43 +103,43 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
 ### 1.2.4 Compliance and Reporting Obligations
 
 1. **Regulatory Compliance:**
-- SPVs established through Valuit comply with local regulations, including filing accounts, undergoing audits, and holding annual general meetings (AGMs) as required by the jurisdiction.
-1. **Anti-Money Laundering (AML) and Know Your Customer (KYC):**
-- SPVs implement rigorous AML and KYC procedures to prevent financial crimes and ensure transparency.
-1. **Tax and Legal Considerations:**
-- Each jurisdiction offers specific tax treatments and legal requirements. Valuit ensures that all necessary tax returns are filed and compliance with double-taxation agreements is maintained.
+    - SPVs established through Valuit comply with local regulations, including filing accounts, undergoing audits, and holding annual general meetings (AGMs) as required by the jurisdiction.
+2. **Anti-Money Laundering (AML) and Know Your Customer (KYC):**
+    - SPVs implement rigorous AML and KYC procedures to prevent financial crimes and ensure transparency.
+3. **Tax and Legal Considerations:**
+    - Each jurisdiction offers specific tax treatments and legal requirements. Valuit ensures that all necessary tax returns are filed and compliance with double-taxation agreements is maintained.
 
 ### 1.2.5 Choosing the Right SPV Jurisdiction with Valuit
 
 **Factors to Consider:**
 
 1. **Purpose of the SPV:**
-- The specific financial or investment goals of the SPV will influence the choice of jurisdiction. Different jurisdictions offer varying advantages depending on the intended use of the SPV.
-1. **Regulatory Environment:**
-- The regulatory framework and ease of compliance in the jurisdiction are critical factors. Jurisdictions with supportive regulations for SPVs are preferable.
-1. **Tax Treatment:**
-- Tax neutrality and favorable tax treatments can significantly impact the efficiency and attractiveness of the SPV.
-1. **Speed and Cost of Incorporation:**
-- The time and cost associated with incorporating an SPV vary across jurisdictions. Faster and more cost-effective jurisdictions are often more desirable.
-1. **Service Provider Ecosystem:**
-- Access to experienced service providers, including legal advisors, auditors, and financial institutions, is essential for the effective management of SPVs.
+    - The specific financial or investment goals of the SPV will influence the choice of jurisdiction. Different jurisdictions offer varying advantages depending on the intended use of the SPV.
+2. **Regulatory Environment:**
+    - The regulatory framework and ease of compliance in the jurisdiction are critical factors. Jurisdictions with supportive regulations for SPVs are preferable.
+3. **Tax Treatment:**
+    - Tax neutrality and favorable tax treatments can significantly impact the efficiency and attractiveness of the SPV.
+4. **Speed and Cost of Incorporation:**
+    - The time and cost associated with incorporating an SPV vary across jurisdictions. Faster and more cost-effective jurisdictions are often more desirable.
+5. **Service Provider Ecosystem:**
+    - Access to experienced service providers, including legal advisors, auditors, and financial institutions, is essential for the effective management of SPVs.
 
 **Valuit’s Expertise:**
 
 - Valuit leverages its extensive network and expertise in key European jurisdictions to provide tailored solutions for establishing and managing SPVs. Our deep understanding of local regulations, tax implications, and market conditions ensures that your SPV is set up efficiently and operates smoothly.
 
-### 1.2.6 Strategic Benefits for Asset Owners
+### Strategic Benefits for Asset Owners
 
 1. **Enhanced Security and Risk Management:**
-- By utilizing SPVs, asset owners can isolate financial risks and protect their core assets, creating a secure investment environment.
-1. **Efficient Capital Raising:**
-- SPVs provide a transparent and structured method for raising capital, attracting investors by offering clarity and security.
-1. **Regulatory Compliance:**
-- Valuit’s expertise in navigating the complex regulatory landscape of different European jurisdictions ensures that all SPVs are fully compliant, reducing the risk of legal issues and enhancing investor confidence.
-1. **Operational Efficiency:**
-- The streamlined process of establishing and managing SPVs with Valuit reduces administrative burdens, allowing asset owners to focus on their core business activities.
+    - By utilizing SPVs, asset owners can isolate financial risks and protect their core assets, creating a secure investment environment.
+2. **Efficient Capital Raising:**
+    - SPVs provide a transparent and structured method for raising capital, attracting investors by offering clarity and security.
+3. **Regulatory Compliance:**
+    - Valuit’s expertise in navigating the complex regulatory landscape of different European jurisdictions ensures that all SPVs are fully compliant, reducing the risk of legal issues and enhancing investor confidence.
+4. **Operational Efficiency:**
+    - The streamlined process of establishing and managing SPVs with Valuit reduces administrative burdens, allowing asset owners to focus on their core business activities.
 
-### 1.2.7 Primary Jurisdiction SPV Comparison Matrix
+### Primary Jurisdiction SPV Comparison Matrix
 
 | **JURISDICTION** | **IRELAND** | **LUXEMBOURG** | **UK** |
 | --- | --- | --- | --- |

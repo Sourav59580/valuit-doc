@@ -4,16 +4,14 @@ sidebar_position: 5
 
 # Technical Asset Requirements
 
-## 1.1 Offering Creation Options
+## Offering Creation Options
 
 | **Requirement** | **Description** |
 | --- | --- |
 | **Form Submission** | Issuer submits a form requesting offering creation, which is sent to admin for review. |
 | **Self-Submission** | Issuer submits all details themselves and submits the offering directly. |
 
-## 
-
-## 1.2 Offering Overview Details
+## Offering Overview Details
 
 | **Detail** | **Description** |
 | --- | --- |
@@ -22,7 +20,7 @@ sidebar_position: 5
 | **Transfer Agent** | Details of the assigned transfer agent. |
 | **State** | Current state of the offering (Round Closed or Round Opened). |
 
-## 1.3 New Offering Creation
+## New Offering Creation
 
 | **Detail** | **Description** |
 | --- | --- |
@@ -44,7 +42,7 @@ sidebar_position: 5
 | **Market Availability** | Availability of the offering in the primary market. |
 | **Asset Type Configuration** | Specific configuration based on the type of asset being tokenized. |
 
-## 1.4 Additional Details for Issuer
+## Additional Details for Issuer
 
 | **Detail** | **Description** |
 | --- | --- |
@@ -56,7 +54,7 @@ sidebar_position: 5
 | **Team Member Details** | Information about the team members involved in the offering. |
 | **Custom Field** | Any additional custom fields required for the offering. |
 
-## 1.5 Real Estate Tokenization
+## Real Estate Tokenization
 
 | **Detail** | **Description** |
 | --- | --- |
@@ -79,7 +77,7 @@ sidebar_position: 5
 | **Token Type** | Specify whether the token is for rental or sale purposes. |
 | **Token Creation Submission** | Submit the token creation request to the admin for approval. |
 
-## 1.6 Approval and Management
+## Approval and Management
 
 | **Requirement** | **Description** |
 | --- | --- |
