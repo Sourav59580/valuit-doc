@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Token Factory Contract
@@ -9,8 +9,13 @@ sidebar_position: 3
 
 **Signature**
 
-![deploytrexsuite](../images/deploytrexsuite.png)
-
+```solidity
+function deployTREXSuite(
+    string memory _salt,
+    TokenDetails calldata _tokenDetails,
+    ClaimDetails calldata _claimDetails
+) external
+```
 
 **Working:**
 
@@ -21,11 +26,15 @@ Deploys new token suite contracts.
 | _salt | string | Unique identifier for token deployment |
 | _tokenDetails | struct | Struct containing token-related settings |
 | _claimDetails | struct | Struct containing claim-related settings |
-1. **setImplementationAuthority**
+2. **setImplementationAuthority**
 
 **Signature**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a349602e-6875-4b6c-be64-f5e044c48bbb/7acfc511-10ab-4b89-ad6b-13a400b00a78/image.png)
+```solidity
+function setImplementationAuthority(
+    address implementationAuthority_
+) public
+```
 
 **Working:**
 
