@@ -60,3 +60,9 @@
   width: var(--logo-width) !important;
   height: var(--logo-height) !important;
 }
+
+.divider {
+  width: 1.5px;
+  height: 25px;
+  background-color: #dedede;
+}

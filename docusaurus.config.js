@@ -96,6 +96,10 @@ const config = {
             label: 'Docs',
           },
           { href: 'https://valuit.com/blog/', label: 'Blog', position: 'left' },
+          {
+            type: 'html',
+            value: "<div class='divider'></div>"
+          },
           { 
             type: 'dropdown',
             label: 'Resources', 
