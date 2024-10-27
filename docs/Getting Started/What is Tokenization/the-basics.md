@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **Tokenization** is the process of converting ownership rights of a real-world asset into a **digital token** on a blockchain. This means that a physical asset, such as property, art, or even shares in a company, can be represented by a digital token. These tokens can then be easily transferred, traded, or used across different platforms within the blockchain ecosystem, making asset management simpler, faster, and more efficient.
 
-### **Why Tokenize?**
+### Why Tokenize?
 
 Tokenization addresses several challenges of traditional financial systems, such as high costs, slow transactions, and limited access to certain markets. With tokenization, ownership of assets becomes more flexible, accessible, and secure.
 
@@ -17,7 +17,7 @@ Here’s why tokenization is transforming industries:
 3. **Increased Liquidity**: Traditionally, assets like real estate or private equity are illiquid, meaning it’s difficult to sell them quickly. Tokenization allows assets to be broken down and traded in smaller portions, making it easier to buy or sell them without waiting for long periods or taking a loss.
 4. **Transparency and Security**: Since tokens are created and recorded on a blockchain, every transaction is traceable and secure. This reduces the risks of fraud or disputes over ownership, as the blockchain provides a permanent record of all transactions.
 
-### **Industries Affected by Tokenization**
+### Industries Affected by Tokenization
 
 Tokenization has the potential to revolutionize multiple industries by bringing transparency, efficiency, and liquidity to traditionally illiquid assets. Some of the most significant industries being transformed include:
 
@@ -27,7 +27,7 @@ Tokenization has the potential to revolutionize multiple industries by bringing 
 4. **Art and Collectibles**: Expensive art pieces and collectibles can be tokenized, allowing multiple investors to own fractions of these assets. This opens up new markets for art investment and makes it more liquid.
 5. **Finance and Investment**: Tokenizing financial instruments like bonds or investment funds allows for greater liquidity, easier transferability, and global access to investment opportunities.
 
-### **Common Steps to Tokenization**
+### Common Steps to Tokenization
 
 Now, let's break down the basic steps involved in the tokenization process:
 

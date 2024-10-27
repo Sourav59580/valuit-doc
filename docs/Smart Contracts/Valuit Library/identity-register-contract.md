@@ -3,9 +3,9 @@ sidebar_position: 5
 ---
 
 # Identity Registry Contract
-**Contract Functions:**
+## Contract Functions:
 
-1. **Init**
+### 1. Init
 
 **Working:**
 
@@ -26,7 +26,7 @@ function init(
 | _trustedIssuersRegistry | address | Trusted Issuers registry linked to the Identity Registry |
 | _claimTopicsRegistry | address | claim topics registry linked to the Identity Registry |
 | _identityStorage | address | identity registry storage linked to the Identity Registry |
-2. **Register Identity**
+### 2. Register Identity
 
 **Working:**
 
@@ -47,7 +47,7 @@ function registerIdentity(
 | _userAddress | address | Address of the user |
 | _identity | address | Identity Contract of User |
 | _country | number | Country Code of user |
-3. **Batch Register Identity**
+### 3. Batch Register Identity
 
 **Working:**
 

@@ -9,7 +9,7 @@ Valuit's onboarding process is designed to ensure a smooth and efficient integra
 
 Valuit uses an automated onboarding structure for Investors to ensure compliance and efficiency throughout the investment process. In the case of more traditional firms, Valuit offers manual KYC (Know Your Customer) and KYB (Know Your Business) approvals with our compliance team. All information shared during the onboarding process adheres with GDPR regulations to ensure data security and protection.
 
-### Onboarding Process Diagram
+## Onboarding Process Diagram
 ![onboarding-process.png](./images/onboarding-process.png)
 
 ## Detailed Onboarding Process

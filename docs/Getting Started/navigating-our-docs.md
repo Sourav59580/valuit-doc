@@ -5,7 +5,7 @@ sidebar_position: 1
 # Navigating Our Docs
 Welcome to the Valuit Documentation! This section is designed to give you easy access to all the information you need to understand, operate, and get the most out of the Valuit ecosystem. Here’s a quick guide on how to navigate the docs, what each section offers, and a basic tutorial to help you get started.
 
-### **How It Works**
+### How It Works
 
 The Valuit Documentation section is structured to make it easy to find both general information and in-depth guides. Here are some key features that make the docs section user-friendly:
 
@@ -14,7 +14,7 @@ The Valuit Documentation section is structured to make it easy to find both gene
 - **Navigation Bar:** On the left, you will find the table of contents configured for easy navigation between topics.
 - **In-Page Navigation**: On the right, when reading the page, you will see headers displayed for quick navigation inside of each page.
 
-### **How the Documentation is Structured**
+### How the Documentation is Structured
 
 The documentation is organized into key sections to help you quickly find the relevant information:
 
@@ -40,7 +40,7 @@ The documentation is organized into key sections to help you quickly find the re
     - **Blockchain & Tokenization:** The basics of blockchain & tokenization linguistics.
     - **Financial & Regulatory:** The basics of financial & regulatory linguistics.
 
-### **Tips for Maximizing Your Experience**
+### Tips for Maximizing Your Experience
 
 - **Bookmark Key Sections**: If you frequently visit specific sections, bookmark them for quicker access.
 - **Explore Code Examples**: For developers, make the most of embedded code examples by testing them in your own development environment.

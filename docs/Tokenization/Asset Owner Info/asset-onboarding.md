@@ -25,10 +25,10 @@ sidebar_position: 3
 2. Derivative tokens are sent to an external exchange or DeFi platform where they can be liquidated and sold, providing liquidity and enabling the sale of the underlying asset.
 
 
-### Sample Customer Flow
+## Sample Customer Flow
 
 ![sample-customer-flow](./images/sample-customer-flow.png)
 
-### General Flow
+## General Flow
 
 ![general-flow](./images/general-flow.png)

@@ -5,7 +5,7 @@ sidebar_position: 1
 # What is $VAL?
 The **$VAL** token is central to the Valuit platform, driving the decentralized finance (DeFi) functions and enabling a seamless experience for asset owners, investors, and stakeholders alike. $VAL is not only a utility token but also a governance tool that empowers holders to shape the Valuit ecosystem, making it a versatile asset that supports a wide range of activities across the platform.
 
-### **$VAL Token Overview**
+## $VAL Token Overview
 
 The **$VAL** token has several key utilities and features that distinguish it within the tokenized finance market:
 
@@ -15,9 +15,9 @@ The **$VAL** token has several key utilities and features that distinguish it 
 4. **Ecosystem Currency**: $VAL serves as the primary currency for platform services like asset management, tokenization fees, and more.
 5. **Liquidity Pairing**: $VAL is used in liquidity pools for tokenized assets, enhancing liquidity and reducing transaction costs within the platform.
 
-### **How $VAL Works: Key Utilities**
+## How $VAL Works: Key Utilities
 
-### **1. Governance and Voting Rights**
+### 1. Governance and Voting Rights
 
 The governance function of the **$VAL** token gives holders a stake in Valuit’s decision-making process. Through a decentralized autonomous organization (DAO) structure, $VAL holders can:
 
@@ -32,7 +32,7 @@ The governance function of the **$VAL** token gives holders a stake in Valuit�
 
 </aside>
 
-### **2. Staking and Reward Mechanisms**
+### 2. Staking and Reward Mechanisms
 
 Staking $VAL provides users with a variety of benefits, from enhanced voting power to preferential allocation in new Real-World Asset (RWA) launches. Staking rewards include:
 
@@ -47,7 +47,7 @@ Staking $VAL provides users with a variety of benefits, from enhanced voting pow
 
 </aside>
 
-### **3. Fee Reductions Across the Ecosystem**
+### 3. Fee Reductions Across the Ecosystem
 
 Users who hold and stake $VAL benefit from reduced transaction fees, adding economic efficiency to their platform activities. The more $VAL staked, the greater the fee reduction:
 
@@ -61,7 +61,7 @@ Users who hold and stake $VAL benefit from reduced transaction fees, adding econ
 
 </aside>
 
-### **4. Token Pairing in Liquidity Pools**
+### 4. Token Pairing in Liquidity Pools
 
 As the primary pairing token, $VAL is essential in Valuit’s liquidity pools, especially those that support tokenized RWAs. This integration benefits liquidity providers and traders by:
 
@@ -76,7 +76,7 @@ As the primary pairing token, $VAL is essential in Valuit’s liquidity pools, e
 
 </aside>
 
-### **5. Platform Payment and Utility**
+### 5. Platform Payment and Utility
 
 $VAL functions as the primary payment currency within the Valuit marketplace. Users and companies use $VAL for a variety of services, enhancing token demand and solidifying its role in the ecosystem.
 
@@ -93,7 +93,7 @@ $VAL functions as the primary payment currency within the Valuit marketplace. Us
 
 </aside>
 
-### **6. Treasury Fund and Buyback Mechanism**
+### 6. Treasury Fund and Buyback Mechanism
 
 A percentage of platform fees and revenue streams fund the DAO-managed treasury, which supports platform development, community initiatives, and strategic growth efforts. This treasury structure allows Valuit to buy back and burn $VAL tokens, directly supporting token value.
 
@@ -108,7 +108,7 @@ A percentage of platform fees and revenue streams fund the DAO-managed treasury,
 
 </aside>
 
-### **7. Utility for RWA Launches and Allocation Boost**
+### 7. Utility for RWA Launches and Allocation Boost
 
 For Real-World Asset (RWA) launches, $VAL token staking provides allocation priority in high-demand assets. Investors can:
 
@@ -123,7 +123,7 @@ For Real-World Asset (RWA) launches, $VAL token staking provides allocation prio
 
 </aside>
 
-### **$VAL Token at the Core of the Ecosystem**
+## $VAL Token at the Core of the Ecosystem
 
 The $VAL token is fundamental to Valuit’s decentralized ecosystem, enhancing governance, liquidity, utility, and incentives across the platform. From reduced fees to staking rewards and prioritized allocations, $VAL offers meaningful value to all users, cementing its role as a key component of the Valuit marketplace.
 

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ValuX is a cutting-edge DeFi platform within the Valuit ecosystem, designed to meet the needs of both individual investors and large institutions. With a focus on tokenized Real-World Assets (RWAs), ValuX enables secure, compliant, and versatile trading, lending, and borrowing capabilities that set it apart from other platforms. Below are the core differentiators that make ValuX the preferred choice for DeFi investors.
 
-### **1. Decentralized Trading Environment**
+### 1. Decentralized Trading Environment
 
 ValuX provides a fully decentralized trading environment, allowing users to trade tokenized assets without relying on traditional intermediaries. By eliminating central control, ValuX ensures transparent, trustless transactions, fostering a user-driven marketplace.
 
@@ -22,7 +22,7 @@ ValuX’s decentralized structure enables users to access trading, lending, and 
 
 </aside>
 
-### **2. Lending & Borrowing**
+### 2. Lending & Borrowing
 
 ValuX offers robust lending and borrowing solutions tailored for tokenized real-world assets. Users can access capital by collateralizing their assets, or they can lend their holdings to earn returns—benefitting both asset holders and liquidity providers.
 
@@ -39,7 +39,7 @@ By allowing users to access capital without liquidation, ValuX’s lending and b
 
 </aside>
 
-### **3. Advanced Trading Features**
+### 3. Advanced Trading Features
 
 ValuX is designed to cater to both beginners and experienced traders, offering a comprehensive suite of advanced trading options. From leveraged positions to automated trading, ValuX enables users to deploy complex strategies and maximize returns on their investments.
 
@@ -58,7 +58,7 @@ ValuX provides tools that empower traders to pursue diverse strategies, from sim
 
 ---
 
-### **Optimized for Institutional and Retail Use**
+### Optimized for Institutional and Retail Use
 
 ValuX bridges the needs of institutional and retail investors by providing a platform that’s flexible, robust, and user-friendly. Institutions can access scalable trading infrastructure and advanced analytics, while retail investors enjoy a simple, intuitive interface for DeFi engagement.
 
@@ -75,7 +75,7 @@ ValuX’s scalable infrastructure and multi-level support ensure that users—fr
 
 </aside>
 
-### **5. Built for Scale**
+### 5. Built for Scale
 
 ValuX’s infrastructure is optimized for high-volume, high-frequency transactions, ensuring that it can scale to accommodate institutional-grade volumes. By leveraging secure, high-throughput blockchain technology, ValuX provides reliability for large-scale asset managers and high-net-worth individuals alike.
 
@@ -94,7 +94,7 @@ ValuX’s scalable architecture supports rapid growth and can handle increased d
 
 ---
 
-### **6. Compliant Product for Real-World Assets (RWAs)**
+### 6. Compliant Product for Real-World Assets (RWAs)
 
 ValuX is built specifically to support tokenized RWAs while adhering to strict compliance standards. The platform integrates KYC (Know Your Customer) and AML (Anti-Money Laundering) checks to ensure regulatory compliance, providing a secure, compliant environment for managing tokenized assets.
 

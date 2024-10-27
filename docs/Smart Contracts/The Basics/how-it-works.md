@@ -4,7 +4,7 @@ sidebar_position: 1
 # How it Works?
 Smart contracts are one of the foundational technologies that power blockchain applications, providing a secure, automated, and trustless way to manage and enforce agreements without intermediaries. In this section, we’ll explore what smart contracts are, how they work, and their uses across various industries.
 
-### **What is a Smart Contract?**
+### What is a Smart Contract?
 
 A **smart contract** is a self-executing digital contract where the terms and conditions of an agreement are directly written into code. When certain conditions are met, the contract automatically enforces these terms. Unlike traditional contracts, smart contracts do not require intermediaries, reducing costs, time, and potential for error.
 
@@ -15,7 +15,7 @@ Smart contracts operate on blockchain networks, ensuring that once deployed, the
 
 </aside>
 
-### **How Smart Contracts Work**
+### How Smart Contracts Work
 
 Smart contracts work similarly to an “if-then” statement: when specific conditions are met, the contract performs a predefined action. Here’s a high-level overview of the process:
 
@@ -24,7 +24,7 @@ Smart contracts work similarly to an “if-then” statement: when specific cond
 3. **Execution**: When conditions specified in the contract are met (e.g., receiving payment, verifying identity), the smart contract automatically executes.
 4. **Irreversible Recording**: All interactions with the contract are recorded on the blockchain, ensuring a permanent and transparent record of activities.
 
-### **Core Characteristics of Smart Contracts**
+### Core Characteristics of Smart Contracts
 
 | **Feature** | **Description** |
 | --- | --- |
@@ -33,7 +33,7 @@ Smart contracts work similarly to an “if-then” statement: when specific cond
 | **Transparency** | All actions taken by the contract are recorded on a public ledger, viewable by all participants. |
 | **Decentralization** | The contract is distributed across the blockchain network, making it resilient to single points of failure. |
 
-### **Benefits of Using Smart Contracts**
+### Benefits of Using Smart Contracts
 
 Smart contracts bring several advantages over traditional contracts:
 
@@ -48,7 +48,7 @@ In a simple loan contract, once a borrower deposits collateral, the smart contra
 
 </aside>
 
-### **Real-World Applications of Smart Contracts**
+### Real-World Applications of Smart Contracts
 
 Smart contracts have a wide range of applications across various sectors. Here are some of the most common uses:
 
@@ -65,7 +65,7 @@ Smart contracts enable automated, secure, and reliable transactions across multi
 
 </aside>
 
-### **How Smart Contracts Power Decentralized Applications (DApps)**
+### How Smart Contracts Power Decentralized Applications (DApps)
 
 Smart contracts are the backbone of **Decentralized Applications (DApps)**, allowing developers to build platforms where users interact directly without intermediaries. For example:
 
@@ -80,6 +80,6 @@ As blockchain technology continues to evolve, smart contracts are expected to be
 
 </aside>
 
-### **Conclusion**
+### Conclusion
 
 Smart contracts are revolutionizing industries by providing a transparent, efficient, and secure way to execute agreements without intermediaries. From finance to healthcare, smart contracts unlock new possibilities for automation and trustless transactions, setting the foundation for decentralized applications and the broader blockchain ecosystem.

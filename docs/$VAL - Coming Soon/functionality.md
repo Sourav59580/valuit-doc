@@ -3,9 +3,9 @@ sidebar_position: 2
 ---
 
 # Functionality
-## **$VAL token utilities**
+## $VAL token utilities
 
-### **DAO governance function of the Valuit platform**
+### DAO governance function of the Valuit platform
 
 The governance function on the Valuit platform is a cornerstone of its decentralized ecosystem, allowing **$VAL** token holders to shape the platform's development.
 
@@ -17,11 +17,11 @@ Voting power will be proportional to the number of tokens held or staked (exact 
 
 Any **$VAL** or **stVAL** token holder will be able to submit proposals. These could range from technical upgrades to new features, community initiatives, or changes in platform policies.
 
-### **Treasury Fund**
+### Treasury Fund
 
 The DAO will control a treasury funded by a portion of platform fees, staking rewards, or other revenue streams. This fund will be used to finance platform development, marketing efforts, partnerships, and other initiatives that benefit the ecosystem. Token holders can submit proposals for how the treasury funds should be spent. Proposals could include hiring developers, funding community projects, or launching marketing campaigns. All expenditures will be transparent and subject to community approval.
 
-### **Staking**
+### Staking
 
 The Valuit platform offers a comprehensive staking interface, allowing users to stake, manage, and monitor their **$VAL** tokens efficiently. The staking mechanism after Valuit blockchain launch will be a core component of the Valuit blockchain's Proof of Stake consensus, ensuring network security and enabling users to participate in governance and earn rewards.
 
@@ -71,13 +71,13 @@ stVAL is the staked version of the VAL token in the Valuit ecosystem. Its core f
 4. **Utility and Value Proposition:** **stVAL** provides users with a clear understanding of the value and yield generated from their staked **VAL** tokens. By holding **stVAL**, users can easily track their staking rewards and potential ROI, reinforcing the benefits of long-term participation in the Valuit ecosystem.
 5. **Governance:** Holders of **stVAL** tokens will have the opportunity to participate in the governance of the Valuit ecosystem. By holding **stVAL**, users gain voting rights that allow them to influence key decisions and developments within the project.
 
-### **Platform payment**
+### Platform payment
 
 **$VAL** tokens are essential for paying fees on Valuit's marketplace. Companies involved in the tokenization of physical assets—whether it be real estate, different metals, or other real world assets—must use **$VAL** tokens to cover the costs associated with token issuance, asset management. For companies launching new products, **$VAL** tokens are required not only for listing, but also, for various promotional services within the Valuit ecosystem(and on social media). This includes featured listings and marketing campaigns(Twitter, banners on site, Discord).
 
 For companies launching new products, **$VAL** tokens are required not only for listing these new items, but also, for a variety of promotional services within the Valuit ecosystem. This includes but is not limited to featured listings and comprehensive marketing campaigns that aim to increase visibility and attract potential investors and buyers. By using **$VAL** tokens, companies can take advantage of enhanced promotional tools and services that are specifically designed to maximize their market reach and business growth within Valuit's marketplace.
 
-### **Transaction fees**
+### Transaction fees
 
 **After Valuit Protocol Launch:**
 
@@ -85,7 +85,7 @@ Valuit's blockchain will utilize a Proof of Stake consensus mechanism, where the
 
 In addition, **$VAL** tokens will be required for users to pay transaction fees across the Valuit network. This includes activities such as token transfers, the execution of smart contracts, and interactions with decentralized applications (dApps) built on the Valuit blockchain. By integrating **$VAL** tokens as the core currency for both validation and transactional operations, the Valuit network ensures a streamlined and efficient ecosystem.
 
-### **Buyback and burn**
+### Buyback and burn
 
 **Platform buyback and burn**: Initially, the buyback and burn mechanism will be funded by a portion of the revenue generated from the platform's activities. This means that as the platform earns revenue through various operations, a percentage of these earnings will be used to purchase VAL tokens from the market and subsequently burn them. This process will help support the token's value and reduce the circulating supply, benefiting the token holders.
 
@@ -93,7 +93,7 @@ In addition, **$VAL** tokens will be required for users to pay transaction fees 
 
 **Blockchain buyback and burn**: Once the Valuit blockchain is fully operational, the buyback and burn mechanism will transition to being funded by a portion of the transaction fees collected on the blockchain. This shift will integrate the mechanism more deeply into the blockchain's infrastructure, ensuring that every transaction on the Valuit blockchain contributes to the reduction of VAL token supply through buybacks and burns.
 
-### **Pair token with tokenized assets**
+### Pair token with tokenized assets
 
 The $VAL token will be used as a pairing token in Valuit's liquidity pools, which will focus on tokenized assets. This means users will be able to provide liquidity to pools using $VAL in conjunction with other assets.
 

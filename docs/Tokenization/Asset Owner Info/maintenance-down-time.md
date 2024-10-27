@@ -29,7 +29,7 @@ sidebar_position: 9
 
 ## System Maintenance
 
-### 1.2.1 Regular Maintenance Schedule
+### Regular Maintenance Schedule
 
 1. Monthly Maintenance:
     - Routine maintenance conducted monthly to ensure system stability and performance.

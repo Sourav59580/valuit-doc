@@ -8,7 +8,7 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
 
 *Note: The SPVs will be managed by Valuit Lithuania UAB, which is licensed under MiCA, ensuring authorization and compliance throughout the process.*
 
-## End-to-End Compliance Process
+### End-to-End Compliance Process
 
 1. Issuing Security Tokens through Exempt Securities Laws in the EU
     1. Legal Entity Formation
@@ -65,7 +65,6 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
             - **Requirement:** Issue ARTs to investors and manage the tokens in accordance with the white paper and MiCA regulations.
             - **Action:** Use Valuit’s platform to handle the issuance and ongoing management of ARTs.
 
-## Information on SPVs
 
 ### Introduction to SPVs
 
@@ -100,7 +99,7 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
     - Robust legal framework based on common law, providing flexibility and business-friendly regulations.
     - Access to the extensive financial services infrastructure of the City of London.
 
-### 1.2.4 Compliance and Reporting Obligations
+### Compliance and Reporting Obligations
 
 1. **Regulatory Compliance:**
     - SPVs established through Valuit comply with local regulations, including filing accounts, undergoing audits, and holding annual general meetings (AGMs) as required by the jurisdiction.
@@ -109,7 +108,7 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
 3. **Tax and Legal Considerations:**
     - Each jurisdiction offers specific tax treatments and legal requirements. Valuit ensures that all necessary tax returns are filed and compliance with double-taxation agreements is maintained.
 
-### 1.2.5 Choosing the Right SPV Jurisdiction with Valuit
+### Choosing the Right SPV Jurisdiction with Valuit
 
 **Factors to Consider:**
 

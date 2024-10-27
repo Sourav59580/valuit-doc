@@ -3,9 +3,9 @@ sidebar_position: 3
 ---
 
 # Token Factory Contract
-**Contract Functions:**
+## Contract Functions:
 
-1. **deployTREXSuite**
+### 1. deployTREXSuite
 
 **Signature**
 
@@ -26,7 +26,7 @@ Deploys new token suite contracts.
 | _salt | string | Unique identifier for token deployment |
 | _tokenDetails | struct | Struct containing token-related settings |
 | _claimDetails | struct | Struct containing claim-related settings |
-2. **setImplementationAuthority**
+### 2. setImplementationAuthority
 
 **Signature**
 

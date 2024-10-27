@@ -3,9 +3,9 @@ sidebar_position: 4
 ---
 
 # Token Contract
-**Contract Functions:**
+## Contract Functions:
 
-1. **Init**
+### 1. Init
 
 **Signature**
 
@@ -32,7 +32,7 @@ Initializes the contract with given parameters.
 | _symbol | string | Symbol of the token |
 | _decimals | uint8 | Decimals of the token |
 | _onchainID | address | Address of the on-chain ID of the token |
-1. **Force Transfer**
+### 2. Force Transfer
 
 **Signature**
 
@@ -53,7 +53,7 @@ This function helps the Agent with Role to transfer frozen tokens to a whitelist
 | _from | address | Address from whom tokens should be transferred |
 | _to | address | Agent address to whom tokens should be transferred |
 | _amount | number | Amount of Frozen tokens that needs to be transferred |
-1. **Batch Forced Transfer**
+### 3. Batch Forced Transfer
 
 **Working:**
 
@@ -74,7 +74,7 @@ function batchForcedTransfer(
 | _fromlist | Array of addresses | Addresses from whom tokens should be transferred |
 | _toList | Array of addresses | Whitelisted address to whom tokens should be transferred |
 | _amount | Array of numbers | Amounts of Frozen tokens that need to be transferred |
-1. **Mint**
+### 4. Mint
 
 **Working:**
 
@@ -93,7 +93,7 @@ function mint(
 | --- | --- | --- |
 | _to | address | Address to which tokens should be minted |
 | _amount | number | Number of tokens that should be minted. |
-1. **Batch Mint**
+### 5. Batch Mint
 
 **Working:**
 
@@ -112,7 +112,7 @@ function batchMint(
 | --- | --- | --- |
 | _toList | Array of addresses | Addresses to which tokens should be minted |
 | _amounts | Array of number | Number of tokens that should be minted. |
-2. **Burn**
+### 6. Burn
 
 **Working:**
 
@@ -131,7 +131,7 @@ function burn(
 | --- | --- | --- |
 | _userAddress | address | Address from which tokens should be burned |
 | _amount | number | Number of tokens that should be burned. |
-3. **Batch Burn**
+### 7. Batch Burn
 
 **Working:**
 
@@ -150,7 +150,7 @@ function batchBurn(
 | --- | --- | --- |
 | _userAddresses | Array of addresses | Addresses to which tokens should be burned |
 | _amounts | Array of number | Number of tokens that should be burned. |
-4. **Freeze Partial Tokens**
+### 8. Freeze Partial Tokens
 
 **Working:**
 
@@ -169,7 +169,7 @@ function freezePartialTokens(
 | --- | --- | --- |
 | _userAddress | address | Address from which tokens should be frozen |
 | _amount | number | Number of tokens that should be frozen. |
-1. **Batch Freeze Partial Tokens**
+### 9. Batch Freeze Partial Tokens
 
 **Working:**
 
@@ -188,7 +188,7 @@ function batchFreezePartialTokens(
 | --- | --- | --- |
 | _userAddresses | Array of addresses | Addresses to which tokens should be frozen |
 | _amounts | Array of number | Number of tokens that should be frozen. |
-5. **UnFreeze Partial Tokens**
+### 10. UnFreeze Partial Tokens
 
 **Working:**
 
@@ -207,7 +207,7 @@ function unfreezePartialTokens(
 | --- | --- | --- |
 | _userAddress | address | Address from which tokens should be unfrozen |
 | _amount | number | Number of tokens that should be unfrozen. |
-1. **Batch unFreeze Partial Tokens**
+### 11. Batch unFreeze Partial Tokens
 
 **Working:**
 

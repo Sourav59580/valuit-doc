@@ -5,7 +5,7 @@ sidebar_position: 2
 # ERC-20
 The **ERC-20** token standard is one of the foundational technologies for the Ethereum blockchain, allowing developers to create digital tokens with standardized functionality. ERC-20 tokens are used across the blockchain ecosystem and form the basis for many popular cryptocurrencies and decentralized applications (DApps).
 
-### **What is ERC-20?**
+### What is ERC-20?
 
 ERC-20 stands for “Ethereum Request for Comment 20,” a proposal created by Ethereum developers to establish a standardized format for digital tokens. It defines a set of rules and functions that all Ethereum tokens must follow, making ERC-20 tokens **interoperable** across wallets, exchanges, and decentralized applications.
 
@@ -16,7 +16,7 @@ ERC-20 tokens are used widely across the Ethereum blockchain and beyond, enablin
 
 </aside>
 
-### **How ERC-20 Works**
+### How ERC-20 Works
 
 An ERC-20 token is essentially a smart contract that follows specific guidelines to ensure it interacts smoothly with other contracts, wallets, and platforms on Ethereum. These tokens represent a wide variety of assets, such as stablecoins, utility tokens, and more. Here’s how the ERC-20 token standard functions:
 
@@ -31,7 +31,7 @@ Stablecoins like USDC and Tether (USDT) are ERC-20 tokens, making them interoper
 
 </aside>
 
-### **Key Components of the ERC-20 Standard**
+### Key Components of the ERC-20 Standard
 
 The ERC-20 token standard includes essential functions that enable easy integration and seamless interaction across the Ethereum network:
 
@@ -44,7 +44,7 @@ The ERC-20 token standard includes essential functions that enable easy integrat
 | **transferFrom** | Allows a third party to transfer tokens from one account to another, using prior approval. |
 | **allowance** | Returns the remaining amount of tokens that a third party is allowed to spend on behalf of the token owner. |
 
-### **Core Characteristics of ERC-20 Tokens**
+### Core Characteristics of ERC-20 Tokens
 
 ERC-20 tokens are widely used because of their simplicity, flexibility, and compatibility with the Ethereum ecosystem. Here are some of the key characteristics that make ERC-20 tokens popular:
 
@@ -59,7 +59,7 @@ The ERC-20 standard provides a universal structure for tokens on Ethereum, allow
 
 </aside>
 
-### **Popularity and Use Cases of ERC-20 Tokens**
+### Popularity and Use Cases of ERC-20 Tokens
 
 ERC-20 has become the **most widely used token standard** on Ethereum, with thousands of tokens following this protocol. Here are some common applications:
 
@@ -75,7 +75,7 @@ ERC-20 tokens also support “wrapped” assets, such as Wrapped Bitcoin (WBTC),
 
 </aside>
 
-### **How ERC-20 Differs from Other Token Standards**
+### How ERC-20 Differs from Other Token Standards
 
 The ERC-20 standard is specifically designed for fungible tokens, meaning all tokens of the same type are identical in value and function. Here’s a comparison with other popular standards:
 
