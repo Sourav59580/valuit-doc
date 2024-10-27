@@ -72,8 +72,134 @@
 }
 
 .footer {
-  background: var(--ifm-background-color);
+  color: #FFFFFFAB;
+  background-image: linear-gradient(120deg, #323945 78%, #514A65 100%);
   border-top: 1px solid var( --footer-border-color) !important;
+}
+
+.footer-first-row {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 15px;
+  text-align: left;
+  justify-content: space-between;
+}
+
+.first-title {
+  font-size: 10px;
+  font-weight: 600;
+  color: #ffffff78;
+}
+
+.second-title {
+  font-size: 9px;
+  font-weight: 600;
+  color: #808291c4;
+}
+
+.second-title-text {
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.mb-0{ 
+  margin-bottom: 0px;
+}
+
+.footer-second-row {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 75px;
+  justify-content: space-between;
+}
+
+.address-box {
+  min-height: 100px;
+  width: 32.5%;
+  padding: 10px;
+  text-align: left;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 2px solid #787a8a;
+}
+
+.footer-address-title {
+  color: #ffffff78;
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.footer-address-subtitle {
+  color: #737588;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.footer-last-row {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-logo {
+  width: 80px;
+  height: 44px;
+}
+
+.social-img {
+  width: 22px;
+  height: 22px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.gap-3 {
+  gap: 24px;
+}
+
+@media (max-width: 600px) {
+  .footer-second-row {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .address-box {
+    width: 100%;
+  }
+
+  .footer-last-row {
+    width: 100%;
+    gap: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .footer-logo {
+    width: 200px;
+    height: 100px;
+  }
+
+  .order-3 {
+    order: 3;
+  }
 }
 
 /* Cards */
@@ -115,3 +241,4 @@ a:hover {
 .card__body {
   color: var(--ifm-font-color-base);
 }
+

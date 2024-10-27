@@ -77,7 +77,7 @@ const config = {
         apiKey: '599cec31baffa4868cae4e79f180729b',
         indexName: 'docsearch'
       },
-      
+
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -100,9 +100,9 @@ const config = {
             type: 'html',
             value: "<div class='divider'></div>"
           },
-          { 
+          {
             type: 'dropdown',
-            label: 'Resources', 
+            label: 'Resources',
             position: 'left',
             items: [
               {
@@ -117,7 +117,7 @@ const config = {
                 label: 'Telegram',
                 href: 'https://github.com/product-valuit/valuit-doc',
               },
-            ] 
+            ]
           },
           {
             href: 'https://github.com/product-valuit/valuit-doc',
@@ -127,8 +127,6 @@ const config = {
         ],
       },
       footer: {
-        
-
         // links: [
         //   {
         //     title: 'Docs',
@@ -170,7 +168,57 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `© ${new Date().getFullYear()} Valuit. All Right Reserved`,
+        copyright: `
+        <div class="row footer-first-row">
+          <div>
+          <p class='first-title' style="margin-bottom: 49px">NEED HELP?</small>
+
+          <p class='second-title mb-0'>CALL US DIRECTLY</small>
+          <p class="second-title-text" style="margin-bottom: 44px">+1 718 713 8417</p>
+
+          <p class='second-title mb-0'>CALL US DIRECTLY</small>
+          <p class="second-title-text" style="margin-bottom: 44px">info@valuit.com</p>
+          
+          </div>
+          <p class='first-title' style="margin-bottom: 49px">KEEP IN TOUCH</small>
+
+          <div>
+          </div> 
+        </div>
+
+        <div class="row footer-second-row">
+          <div class="col-md-4 address-box">
+            <p class='footer-address-title'>VALUIT NEW YORK OFFICE</p>
+            <p class='footer-address-subtitle'>100 Quentin Roosevelt Blvd, Suite: 503, Garden City, New York, 11530</p>
+          </div>
+          <div class="col-md-4 address-box">
+            <p class='footer-address-title'>VALUIT LITHUANIA OFFICE</p>
+            <p class='footer-address-subtitle'>Zalgirio g.88-101, Vilnius, Lithuania, 09301</p>
+          </div>
+          <div class="col-md-4 address-box">
+            <p class='footer-address-title'>VALUIT DUBAI OFFICE</p>
+            <p class='footer-address-subtitle'>22B St - Emirates Towers - Trade Centre 2 - Dubai - United Arab Emirates</p>
+          </div>
+        </div>
+        
+        <div class="footer-last-row">
+          <img src="/img/logo_dark.png" class="footer-logo" alt="valuit"/>
+          <span class="order-3">© ${new Date().getFullYear()} Valuit. All Right Reserved</span>
+          <div class="d-flex gap-3">
+            <a href="https://x.com/Valuit_tr">
+              <img src="/img/socials/x-twitter-brands-solid.svg" class="social-img" alt="valuit"/>
+            </a>
+            <a href="https://www.instagram.com/valuit_tr/">
+              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="valuit"/>
+            </a>
+            <a href="https://www.instagram.com/valuitofficial?igsh=ZnVwcTN4eGh2dm0x">
+              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="valuit"/>
+            </a>
+            <a href="https://www.linkedin.com/company/valuit-llc/">
+              <img src="/img/socials/linkedin-brands-solid.svg" class="social-img" alt="valuit"/>
+            </a>
+          </div>
+        </div>`,
       },
       prism: {
         theme: prismThemes.github,
