@@ -95,10 +95,17 @@
   color: #ffffff78;
 }
 
-.second-title, .footer__title {
+.second-title {
   font-size: 9px;
   font-weight: 600;
   color: #808291c4;
+  font-family: "Poppins", serif !important;
+}
+
+.footer__title {
+  font-size: 10px;
+  font-weight: 600;
+  color: #ffffff78;
 }
 
 .footer__link-item {
