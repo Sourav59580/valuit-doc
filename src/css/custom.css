@@ -52,7 +52,7 @@
 }
 
 * {
-  font-family: "Poppins", serif;
+  font-family: "Poppins", serif !important;
 }
 
 li.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item {
