@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 
 # Services
-## 1.1 Overview
+### Overview
 
 Valuit is dedicated to offering a wide range of services that address the needs of asset owners by leveraging the latest advancements in blockchain technology.
 
-### 1.1.1 Service Diagram
+### Service Diagram
 
 ![services-diagram](./images/services-diagram.png)
 

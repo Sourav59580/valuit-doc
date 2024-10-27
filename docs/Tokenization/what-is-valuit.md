@@ -9,11 +9,15 @@ Welcome to **Valuit**, the worlds first comprehensive RWA ecosystem providing c
 
 **Our Vision:** To redefine the future of finance to enable an inclusive, transparent, and equitable ecosystem for all stakeholders. Valuit envisions a global financial landscape where alternative investments are no longer the privilege of a few but are accessible to all, fostering economic resilience and inclusivity through blockchain technology and decentralized governance. 
 
-### Why Choose Valuit?
+## Project Deck
+
+<iframe src="https://valuit.com/docs/project-deck.pdf" width="100%" height="535" frameborder="0"></iframe>
+
+## Why Choose Valuit?
 
 Valuit offers a unique and comprehensive solution for tokenizing assets and managing equity within a secure, compliant, and user-friendly ecosystem. From simplifying regulatory compliance to enabling seamless trading, Valuit is designed to meet the needs of institutional investors, asset owners, and everyday users alike. Below are the key benefits that set Valuit apart from competitors in the tokenization and equity management landscape.
 
-### **1. Complete End-to-End Tokenization Platform**
+### 1. Complete End-to-End Tokenization Platform
 
 Valuit offers an all-in-one solution for tokenizing assets, managing equity, and facilitating compliant transactions. By integrating every stage of the tokenization process—from asset verification to token creation and trading—Valuit streamlines complex processes, allowing clients to focus on maximizing the value of their assets.
 
@@ -24,7 +28,7 @@ Unlike platforms that require third-party integrations or external tools, Valuit
 
 </aside>
 
-### **2. Regulatory Compliance and Security**
+### 2. Regulatory Compliance and Security
 
 Valuit is built with compliance at its core, ensuring that all tokenized assets meet global regulatory standards. Through the use of ERC-3643 compliance-ready tokens, Valuit enables asset owners to tokenize equity while maintaining adherence to KYC (Know Your Customer), AML (Anti-Money Laundering), and GDPR regulations. Additionally, Valuit’s infrastructure is audited and secure, providing clients with the confidence that their assets and data are protected.
 
@@ -41,7 +45,7 @@ Valuit’s smart contracts are thoroughly audited to reduce risk and ensure tran
 
 </aside>
 
-### **3. Flexible and Scalable Tokenization**
+### 3. Flexible and Scalable Tokenization
 
 Valuit’s platform is designed to scale with the needs of its clients. Whether you're tokenizing a single asset or managing a complex portfolio, Valuit offers flexible options to fit various asset classes, including real estate, private equity, and commodities. Additionally, Valuit’s infrastructure is compatible with popular blockchain standards, allowing for seamless interoperability across Ethereum and other major platforms.
 
@@ -51,7 +55,7 @@ Valuit’s platform is designed to scale with the needs of its clients. Whether 
 | **Modular Compliance** | Customize compliance settings for different regulatory requirements. |
 | **Scalable Infrastructure** | Supports tokenization for both small-scale and large institutional portfolios. |
 
-### **4. Advanced Equity Management Tools**
+### 4. Advanced Equity Management Tools
 
 Valuit goes beyond simple tokenization by providing robust equity management tools tailored for both individual and institutional clients. These tools allow asset owners and investors to track, manage, and trade their tokenized assets efficiently, with features including fractional ownership, dividend distribution, and real-time reporting.
 
@@ -68,7 +72,7 @@ Valuit’s equity management system provides users with transparent and actionab
 
 </aside>
 
-### **5. Interoperability and Ecosystem Integration**
+### 5. Interoperability and Ecosystem Integration
 
 Valuit leverages open-source protocols and widely adopted blockchain standards, including ERC-20 and ERC-3643, to ensure seamless integration with external platforms and services. This interoperability enables asset owners and investors to transfer, trade, and manage their assets across various DeFi platforms and digital wallets.
 
@@ -78,7 +82,7 @@ Valuit leverages open-source protocols and widely adopted blockchain standards, 
 | **ERC-3643 Standard** | Provides a compliance-ready framework for security tokens, allowing access to regulated markets. |
 | **Cross-Platform Support** | Connects with multiple DeFi applications, expanding trading and liquidity options. |
 
-### **6. User-Centric Design with Advanced Support**
+### 6. User-Centric Design with Advanced Support
 
 Valuit prioritizes user experience, providing an intuitive interface for asset owners, investors, and institutions alike. With easy onboarding, detailed guides, and dedicated support, Valuit ensures that users can navigate the platform and manage their tokenized assets confidently.
 
@@ -95,7 +99,7 @@ Valuit prioritizes user experience, providing an intuitive interface for asset o
 
 </aside>
 
-### In Short
+## Summary
 
 Valuit combines a secure, regulatory-compliant framework with a user-friendly platform to offer an unmatched tokenization experience. With features tailored to the needs of both individual and institutional investors, Valuit stands out as a comprehensive, scalable, and future-ready solution for equity management. Whether you’re looking to tokenize a single asset or manage an extensive portfolio, Valuit’s advanced technology and dedicated support ensure you can achieve your investment goals with confidence and security.
 
