@@ -1,47 +1,87 @@
 ---
 sidebar_position: 1
+
+sidebar_label: Home
+hide_table_of_contents: true
 ---
 
-# Home
+import {Container, Card} from "@site/src/components/cards";
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Welcome to Valuit
 
-## Getting Started
+Imagine a place were you can build Web3 apps with the simplicity of Web2. Imagine a place were you can empower communities, supercharge AI and easily integrate your app with other chains. Welcome to NEAR, you're gonna like it here.
 
-Get started by **creating a new site**.
+<Container>
+    <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
+          title="NEAR Protocol"
+          text="Learn what NEAR is and how it works"
+          links={{
+            "What is NEAR?": "/concepts/basics/protocol",
+            "Named Accounts": "/concepts/protocol/account-id",
+            "Access Keys": "/concepts/protocol/access-keys",
+            "Transactions": "/concepts/protocol/transactions"
+          }}
+    />
+    <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
+          title="Chain Abstraction"
+          text="Forget about the chain, focus on usability"
+          links={{
+            "What is Chain Abstraction?": "/build/chain-abstraction/what-is",
+            "Chain Signatures ✨": "/build/chain-abstraction/chain-signatures",
+            "Meta-transactions": "/build/chain-abstraction/meta-transactions",
+            "FastAuth (Email login)": "/build/chain-abstraction/fastauth-sdk", 
+          }}
+    />
+    <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
+          title="Web3 Applications"
+          text="Supercharge your App using NEAR"
+          links={{
+            "What are Web3 Applications?": "/build/web3-apps/what-is",
+            "Quickstart ✨": "/build/web3-apps/quickstart",
+            "Create an AI Assistant 🤖✨": "/build/web3-apps/ai/ai-assistant",
+            "Use a Contract in Your Frontend": "/build/web3-apps/integrate-contracts",
+            "Social Components (BOS)": "/build/near-components/what-is",
+          }}
+    />
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+</Container>
 
-### What you'll need
+---
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## External Resources
 
-## Generate a new site
+Here are more sources from our ecosystem that can help you to learn more about NEAR.
 
-Generate a new Docusaurus site using the **classic template**.
+<div className="row cards">
+  <div className="col col--6">
+    <a href="https://dev.near.org/applications" target="_blank" rel="noopener noreferrer">
+      <div className="card">
+        <div className="card__image">
+          <img src={require("@site/static/img/docusaurus-social-card.jpg").default} alt="Discover" />
+        </div>
+        <div className="card__body">
+          <h3>
+          Discover
+          </h3>
+          Discover awesome apps in the Near ecosystem
+        </div>
+      </div>
+    </a>
+  </div>
+  <div className="col col--6">
+    <a href="https://dev.near.org/applications" target="_blank" rel="noopener noreferrer">
+      <div className="card">
+        <div className="card__image">
+          <img src={require("@site/static/img/docusaurus-social-card.jpg").default} alt="Discover" />
+        </div>
+        <div className="card__body">
+          <h3>
+          Discover
+          </h3>
+          Discover awesome apps in the Near ecosystem
+        </div>
+      </div>
+    </a>
+  </div>
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+</div>
