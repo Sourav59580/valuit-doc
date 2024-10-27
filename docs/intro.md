@@ -16,65 +16,52 @@ Imagine a place were you can build Web3 apps with the simplicity of Web2. Imagin
 
 <Container>
     <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
-          title="NEAR Protocol"
-          text="Learn what NEAR is and how it works"
+          title="Getting Started"
+          text="Dive into the basics and understand the fundamentals"
           links={{
-            "What is NEAR?": "/concepts/basics/protocol",
-            "Named Accounts": "/concepts/protocol/account-id",
-            "Access Keys": "/concepts/protocol/access-keys",
-            "Transactions": "/concepts/protocol/transactions"
+            "Navigating our Docs": "/concepts/basics/protocol",
+            "What is tokenization?": "/concepts/protocol/account-id",
           }}
     />
     <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
-          title="Chain Abstraction"
-          text="Forget about the chain, focus on usability"
+          title="Tokenization"
+          text="Transform assets into digital tokens seamlessly"
           links={{
-            "What is Chain Abstraction?": "/build/chain-abstraction/what-is",
-            "Chain Signatures ✨": "/build/chain-abstraction/chain-signatures",
-            "Meta-transactions": "/build/chain-abstraction/meta-transactions",
-            "FastAuth (Email login)": "/build/chain-abstraction/fastauth-sdk", 
+            "What is Valuit?": "/build/chain-abstraction/what-is",
+            "Asset Owner Info": "/build/chain-abstraction/chain-signatures",
+            "Investor Info": "/build/chain-abstraction/meta-transactions", 
           }}
     />
     <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
-          title="Web3 Applications"
-          text="Supercharge your App using NEAR"
+          title="DeFi - Coming Soon"
+          text="Discover decentralized finance with Valuit"
           links={{
-            "What are Web3 Applications?": "/build/web3-apps/what-is",
-            "Quickstart ✨": "/build/web3-apps/quickstart",
-            "Create an AI Assistant 🤖✨": "/build/web3-apps/ai/ai-assistant",
-            "Use a Contract in Your Frontend": "/build/web3-apps/integrate-contracts",
-            "Social Components (BOS)": "/build/near-components/what-is",
+            "What is ValuX?": "/build/web3-apps/what-is",
           }}
     />
 <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
-          title="NEAR Protocol"
-          text="Learn what NEAR is and how it works"
+          title="$VAL - Coming Soon"
+          text="Learn about $VAL token"
           links={{
-            "What is NEAR?": "/concepts/basics/protocol",
-            "Named Accounts": "/concepts/protocol/account-id",
-            "Access Keys": "/concepts/protocol/access-keys",
-            "Transactions": "/concepts/protocol/transactions"
+            "What is $VAL?": "/concepts/basics/protocol",
+            "Functionality": "/concepts/protocol/account-id",
           }}
     />
     <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
-          title="Chain Abstraction"
-          text="Forget about the chain, focus on usability"
+          title="Smart Contracts"
+          text="Explore smart contracts of Valuit"
           links={{
-            "What is Chain Abstraction?": "/build/chain-abstraction/what-is",
-            "Chain Signatures ✨": "/build/chain-abstraction/chain-signatures",
-            "Meta-transactions": "/build/chain-abstraction/meta-transactions",
-            "FastAuth (Email login)": "/build/chain-abstraction/fastauth-sdk", 
+            "The Basics": "/build/chain-abstraction/what-is",
+            "Valuit Library": "/build/chain-abstraction/chain-signatures",
           }}
     />
     <Card img={require("@site/static/img/docusaurus-social-card.jpg").default}
-          title="Web3 Applications"
-          text="Supercharge your App using NEAR"
+          title="Glossary"
+          text="Navigate blockchain terms and definitions"
           links={{
-            "What are Web3 Applications?": "/build/web3-apps/what-is",
-            "Quickstart ✨": "/build/web3-apps/quickstart",
-            "Create an AI Assistant 🤖✨": "/build/web3-apps/ai/ai-assistant",
-            "Use a Contract in Your Frontend": "/build/web3-apps/integrate-contracts",
-            "Social Components (BOS)": "/build/near-components/what-is",
+            "Key Terms": "/build/web3-apps/what-is",
+            "Blockchain & Tokenization": "/build/web3-apps/quickstart",
+            "Financial & Regulatory": "/build/web3-apps/ai/ai-assistant",
           }}
     />
 </Container>
