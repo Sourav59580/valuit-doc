@@ -127,63 +127,92 @@ const config = {
         ],
       },
       footer: {
-        // links: [
-        //   {
-        //     title: 'Docs',
-        //     items: [
-        //       {
-        //         label: 'Tutorial',
-        //         to: '/docs/intro',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'Community',
-        //     items: [
-        //       {
-        //         label: 'Stack Overflow',
-        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //       },
-        //       {
-        //         label: 'Discord',
-        //         href: 'https://discordapp.com/invite/docusaurus',
-        //       },
-        //       {
-        //         label: 'Twitter',
-        //         href: 'https://twitter.com/docusaurus',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'More',
-        //     items: [
-        //       {
-        //         label: 'Blog',
-        //         to: '/blog',
-        //       },
-        //       {
-        //         label: 'GitHub',
-        //         href: 'https://github.com/facebook/docusaurus',
-        //       },
-        //     ],
-        //   },
-        // ],
+        links: [
+          {
+            title: 'ABOUT US',
+            items: [
+              {
+                label: 'Our Story',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Team',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Partners',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'SOLUTIONS',
+            items: [
+              {
+                label: 'Tokenization',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Share Capital Management',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Consulting and Advisory',
+                to: '/docs/intro',
+              },
+            ]
+          },
+          {
+            title: 'USE CASES',
+            items: [
+              {
+                label: 'Real Esate',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Funds & Equities',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Debt Financing',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Decentralized Finance',
+                to: '/docs/intro',
+              },
+            ]
+          },
+          {
+            title: 'CUSTOMERS',
+            items: [
+              {
+                label: 'Testimonials',
+                href: '/docs/intro',
+              }
+            ],
+          }
+        ],
+
+
         copyright: `
         <div class="row footer-first-row">
           <div>
-          <p class='first-title' style="margin-bottom: 49px">NEED HELP?</small>
+            <p class='first-title' style="margin-bottom: 30px">NEED HELP?</small>
 
-          <p class='second-title mb-0'>CALL US DIRECTLY</small>
-          <p class="second-title-text" style="margin-bottom: 44px">+1 718 713 8417</p>
+            <div style="display: flex; gap: 30px">
+              <div>
+                <p class='second-title mb-0'>CALL US DIRECTLY</small>
+                <p class="second-title-text" style="margin-bottom: 44px">+1 718 713 8417</p>
+              </div>
 
-          <p class='second-title mb-0'>CALL US DIRECTLY</small>
-          <p class="second-title-text" style="margin-bottom: 44px">info@valuit.com</p>
-          
+              <div>
+                <p class='second-title mb-0'>CALL US DIRECTLY</small>
+                <p class="second-title-text" style="margin-bottom: 44px">info@valuit.com</p>
+              </div>
+            </div>
+
           </div>
-          <p class='first-title' style="margin-bottom: 49px">KEEP IN TOUCH</small>
-
-          <div>
-          </div> 
         </div>
 
         <div class="row footer-second-row">

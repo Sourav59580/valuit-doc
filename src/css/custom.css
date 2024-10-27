@@ -84,6 +84,7 @@
   flex-wrap: wrap;
   align-items: center;
   margin-bottom: 15px;
+  margin-top: 55px;
   text-align: left;
   justify-content: space-between;
 }
@@ -94,10 +95,20 @@
   color: #ffffff78;
 }
 
-.second-title {
+.second-title, .footer__title {
   font-size: 9px;
   font-weight: 600;
   color: #808291c4;
+}
+
+.footer__link-item {
+  font-size: 15px;
+  font-weight: 400;
+  color: #CBCBCB;
+}
+
+.footer__link-item:hover {
+  color: #fff;
 }
 
 .second-title-text {
@@ -116,12 +127,12 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin-bottom: 75px;
+  margin-bottom: 60px;
   justify-content: space-between;
 }
 
 .address-box {
-  min-height: 100px;
+  min-height: 110px;
   width: 32.5%;
   padding: 10px;
   text-align: left;
