@@ -23,6 +23,8 @@
   --logo-height: 20px;
   --logo-margin-right: 15px;
   --navbar-border-color: #fff;
+
+  --footer-border-color: #f2f2f2;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -43,6 +45,8 @@
   --logo-height: 40px;
   --logo-margin-right: 0px;
   --navbar-border-color: #1d0f37;
+
+  --footer-border-color: #1d0f37;
 }
 
 * {
@@ -65,4 +69,9 @@
   width: 1.5px;
   height: 25px;
   background-color: #dedede;
+}
+
+.footer {
+  background: var(--ifm-background-color);
+  border-top: 1px solid var( --footer-border-color) !important;
 }
