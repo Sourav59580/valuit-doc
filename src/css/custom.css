@@ -25,6 +25,7 @@
   --navbar-border-color: #fff;
 
   --footer-border-color: #f2f2f2;
+  --sidebar-divider-color: #f8f8f8;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -47,10 +48,18 @@
   --navbar-border-color: #1d0f37;
 
   --footer-border-color: #1d0f37;
+  --sidebar-divider-color: #1d0f37;
 }
 
 * {
   font-family: "Poppins", serif;
+}
+
+li.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item {
+  margin-right: 8px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 4px solid var(--sidebar-divider-color);
 }
 
 .navbar {
