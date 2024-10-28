@@ -9,7 +9,7 @@ sidebar_position: 4
 
 **Signature**
 
-```solidity
+```jsx solidity
 function init(
     address _identityRegistry,
     address _compliance,
@@ -36,7 +36,7 @@ Initializes the contract with given parameters.
 
 **Signature**
 
-```solidity
+```jsx solidity
 function forcedTransfer(
     address _from,
     address _to,
@@ -61,7 +61,7 @@ This function helps the Agent with Role to transfer frozen tokens from more than
 
 **Signature**
 
-```solidity
+```jsx solidity
 function batchForcedTransfer(
     address[] calldata _fromList,
     address[] calldata _toList,
@@ -82,7 +82,7 @@ This function helps the Agent with Role to mint tokens to a user address.
 
 **Signature**
 
-```solidity
+```jsx solidity
 function mint(
     address _to,
     uint256 _amount
@@ -101,7 +101,7 @@ This function helps the Agent with Role to mint tokens from more than 1 user add
 
 **Signature**
 
-```solidity
+```jsx solidity
 function batchMint(
     address[] calldata _toList,
     uint256[] calldata _amounts
@@ -120,7 +120,7 @@ This function helps the Agent with Role to burn tokens from a user address.
 
 **Signature**
 
-```solidity
+```jsx solidity
 function burn(
     address _userAddress,
     uint256 _amount
@@ -139,7 +139,7 @@ This function helps the Agent with Role to burn tokens from more than 1 user add
 
 **Signature**
 
-```solidity
+```jsx solidity
 function batchBurn(
     address[] calldata _userAddresses,
     uint256[] calldata _amounts
@@ -158,7 +158,7 @@ This function helps the Agent with Role to freeze tokens from the user address.
 
 **Signature**
 
-```solidity
+```jsx solidity
 function freezePartialTokens(
     address _userAddress,
     uint256 _amount
@@ -177,7 +177,7 @@ This function helps the Agent with Role to freeze partial tokens from more than 
 
 **Signature**
 
-```solidity
+```jsx solidity
 function batchFreezePartialTokens(
     address[] calldata _userAddresses,
     uint256[] calldata _amounts
@@ -196,7 +196,7 @@ This function helps the Agent with Role to unFreeze tokens from the user address
 
 **Signature**
 
-```solidity
+```jsx solidity
 function unfreezePartialTokens(
     address _userAddress,
     uint256 _amount
@@ -215,7 +215,7 @@ This function helps the Agent with Role to unFreeze partial tokens from more tha
 
 **Signature**
 
-```solidity
+```jsx solidity
 function batchUnfreezePartialTokens(
     address[] calldata _userAddresses,
     uint256[] calldata _amounts

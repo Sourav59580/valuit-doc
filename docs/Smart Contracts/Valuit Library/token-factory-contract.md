@@ -30,7 +30,7 @@ Deploys new token suite contracts.
 
 **Signature**
 
-```js
+```jsx
 function setImplementationAuthority(
     address implementationAuthority_
 ) public

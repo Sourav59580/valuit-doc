@@ -13,7 +13,7 @@ Initializes the contract with given parameters.
 
 **Signature**
 
-```solidity
+```jsx solidity
 function init(
     address _trustedIssuersRegistry,
     address _claimTopicsRegistry,
@@ -34,7 +34,7 @@ This function will whitelist the user on the token.
 
 **Signature**
 
-```solidity
+```jsx solidity
 function registerIdentity(
     address _userAddress,
     IIdentity _identity,
@@ -55,7 +55,7 @@ This function will whitelist more than 1 user on the token in a single transacti
 
 **Signature:**
 
-```solidity
+```jsx solidity
 function batchRegisterIdentity(
     address[] calldata _userAddresses,
     IIdentity[] calldata _identities,
