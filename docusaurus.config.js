@@ -40,7 +40,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '',
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -48,6 +48,8 @@ const config = {
             'https://github.com/product-valuit/valuit-doc/blob/main',
         },
         blog: {
+          path: 'blog',
+          routeBasePath: 'blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -176,7 +178,7 @@ const config = {
               },
               {
                 label: 'Debt Financing',
-                to: '/https://valuit.com/debt-financing',
+                to: 'https://valuit.com/debt-financing',
               },
               {
                 label: 'Decentralized Finance',
