@@ -9,8 +9,8 @@ sidebar_position: 3
 
 **Signature**
 
-```solidity
-function deployTREXSuite(
+```jsx solidity
+function deployTREXSuite (
     string memory _salt,
     TokenDetails calldata _tokenDetails,
     ClaimDetails calldata _claimDetails
@@ -30,7 +30,7 @@ Deploys new token suite contracts.
 
 **Signature**
 
-```solidity
+```js
 function setImplementationAuthority(
     address implementationAuthority_
 ) public
