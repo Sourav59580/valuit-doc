@@ -19,49 +19,49 @@ Welcome to Valuit, your gateway to the future of digital asset tokenization and 
           title="Getting Started"
           text="Dive into the basics and understand the fundamentals"
           links={{
-            "Navigating our Docs": "/docs/Getting Started/navigating-our-docs",
-            "What is tokenization?": "/docs/Getting Started/What is Tokenization/the-basics",
+            "Navigating our Docs": "/Getting Started/navigating-our-docs",
+            "What is tokenization?": "/Getting Started/What is Tokenization/the-basics",
           }}
     />
     <Card img={require("@site/static/img/intro/Tokenization.png").default}
           title="Tokenization"
           text="Transform assets into digital tokens seamlessly"
           links={{
-            "What is Valuit?": "/docs/Tokenization/what-is-valuit",
-            "Asset Owner Info": "/docs/Tokenization/Asset Owner Info/services",
-            "Investor Info": "/docs/Tokenization/Investor Info/ecosystem", 
+            "What is Valuit?": "/Tokenization/what-is-valuit",
+            "Asset Owner Info": "/Tokenization/Asset Owner Info/services",
+            "Investor Info": "/Tokenization/Investor Info/ecosystem", 
           }}
     />
     <Card img={require("@site/static/img/intro/DeFi - Coming Soon.png").default}
           title="DeFi - Coming Soon"
           text="Discover decentralized finance with Valuit"
           links={{
-            "What is ValuX?": "/docs/DeFi - Coming Soon/what-is-valux",
+            "What is ValuX?": "/DeFi - Coming Soon/what-is-valux",
           }}
     />
 <Card img={require("@site/static/img/intro/$VAL - Coming Soon.png").default}
           title="$VAL - Coming Soon"
           text="Learn about $VAL token"
           links={{
-            "What is $VAL?": "/docs/$VAL - Coming Soon/what-is-$val",
-            "Functionality": "/docs/$VAL - Coming Soon/functionality",
+            "What is $VAL?": "/$VAL - Coming Soon/what-is-$val",
+            "Functionality": "/$VAL - Coming Soon/functionality",
           }}
     />
     <Card img={require("@site/static/img/intro/smart contract.png").default}
           title="Smart Contracts"
           text="Explore smart contracts of Valuit"
           links={{
-            "The Basics": "/docs/Smart Contracts/The Basics/how-it-works",
-            "Valuit Library": "/docs/Smart Contracts/Valuit Library/overview",
+            "The Basics": "/Smart Contracts/The Basics/how-it-works",
+            "Valuit Library": "/Smart Contracts/Valuit Library/overview",
           }}
     />
     <Card img={require("@site/static/img/intro/Glossary.png").default}
           title="Glossary"
           text="Navigate blockchain terms and definitions"
           links={{
-            "Key Terms": "/docs/Glossary/key-terms",
-            "Blockchain & Tokenization": "/docs/Glossary/blockchain-and-tokenization",
-            "Financial & Regulatory": "/docs/Glossary/financial-and-regulatory",
+            "Key Terms": "/Glossary/key-terms",
+            "Blockchain & Tokenization": "/Glossary/blockchain-and-tokenization",
+            "Financial & Regulatory": "/Glossary/financial-and-regulatory",
           }}
     />
 </Container>
