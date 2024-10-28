@@ -133,15 +133,15 @@ const config = {
             items: [
               {
                 label: 'Our Story',
-                to: '/docs/intro',
+                to: 'https://valuit.com/our-story',
               },
               {
                 label: 'Team',
-                to: '/docs/intro',
+                to: 'https://valuit.com/team',
               },
               {
                 label: 'Partners',
-                to: '/docs/intro',
+                to: 'https://valuit.com/partners',
               },
             ],
           },
@@ -150,15 +150,15 @@ const config = {
             items: [
               {
                 label: 'Tokenization',
-                to: '/docs/intro',
+                to: 'https://valuit.com/tokenization',
               },
               {
                 label: 'Share Capital Management',
-                to: '/docs/intro',
+                to: 'https://valuit.com/share-capital-management/',
               },
               {
                 label: 'Consulting and Advisory',
-                to: '/docs/intro',
+                to: 'https://valuit.com/consulting-and-advisory/',
               },
             ]
           },
@@ -167,19 +167,19 @@ const config = {
             items: [
               {
                 label: 'Real Esate',
-                to: '/docs/intro',
+                to: 'https://valuit.com/real-estate',
               },
               {
                 label: 'Funds & Equities',
-                to: '/docs/intro',
+                to: 'https://valuit.com/funds-equities',
               },
               {
                 label: 'Debt Financing',
-                to: '/docs/intro',
+                to: '/https://valuit.com/debt-financing',
               },
               {
                 label: 'Decentralized Finance',
-                to: '/docs/intro',
+                to: 'https://valuit.com/decentralized-finance',
               },
             ]
           },
@@ -188,7 +188,7 @@ const config = {
             items: [
               {
                 label: 'Testimonials',
-                href: '/docs/intro',
+                href: 'https://valuit.com/testimonials',
               }
             ],
           }
