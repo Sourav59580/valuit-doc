@@ -4,8 +4,8 @@
   <ShortName>Valuit</ShortName>
   <Description>Search Valuit</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://Sourav59580.github.io/valuit-doc/img/favicon-150x150.png</Image>
-  <Url type="text/html" method="get" template="https://Sourav59580.github.io/valuit-doc/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://Sourav59580.github.io/valuit-doc/opensearch.xml" />
-  <moz:SearchForm>https://Sourav59580.github.io/valuit-doc/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://Sourav59580.github.io/img/favicon-150x150.png</Image>
+  <Url type="text/html" method="get" template="https://Sourav59580.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://Sourav59580.github.io/opensearch.xml" />
+  <moz:SearchForm>https://Sourav59580.github.io/</moz:SearchForm>
 </OpenSearchDescription>
